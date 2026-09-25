@@ -38,7 +38,7 @@ Three decisions follow from that.
 ## Quickstart
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/redmi50/model-review-toolkit.git
 cd model-review-toolkit
 python -m venv .venv
 source .venv/bin/activate
